@@ -1,4 +1,4 @@
-# 💫 About Me:
+#About Me:
 🧩 I’m currently working on an AI-powered system that provides legal guidance and awareness through natural conversation, helping users understand rights and remedies in simple terms.<br>🤝 I’m looking to collaborate on AI for social good, data-driven applications, and full-stack projects with meaningful real-world impact.<br>🙋‍♂️ I’m looking for help with improving model interpretability and deploying scalable AI services.<br>🌱 I’m currently learning FastAPI, prompt engineering, and advanced machine learning model tuning.<br>💬 Ask me about: building conversational AI systems from scratch, designing backend APIs, or integrating machine learning models with real-world web apps.<br>⚡ Fun fact: I often start projects by solving a small everyday problem — and they end up turning into full-fledged systems with real applications.
 
 
