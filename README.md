@@ -26,4 +26,5 @@
 
 ### 🐍 Contribution Snake
 
-![GitHub Snake](https://raw.githubusercontent.com/kcsshashankreddy26/kcsshashankreddy26/output/github-snake.svg)
+![Snake](https://raw.githubusercontent.com/kcsshashankreddy26/kcsshashankreddy26/output/github-snake.svg)
+
